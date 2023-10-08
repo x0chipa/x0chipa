@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm xochipa</h1>
-<h3 align="center">I am interested in cybersecurity, artificial intelligence and data science.</h3>
+<h3 align="center">I am interested in back-end development, cybersecurity and design.</h3>
 
-- 🌱 I’m currently learning **MySQL and Python**
+- 🌱 I’m currently learning **Dart, Flutter and Delphi**
 
 - 👀 I’m interested in learning Artificial intelligence
 
 - 👨‍💻  I am an **engineering student in computer science**
 
-- 💬 Ask me about **Java, C and C++**
+- 💬 Ask me about **Linux, Java,C and C++**
 
 - 💞️ I’m looking to collaborate on share my school projects.
 
